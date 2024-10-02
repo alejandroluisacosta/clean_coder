@@ -1,3 +1,5 @@
+// DISPLAY ONE IMAGE 
+
 let images = [];
 
 const getAllImages = async() => {

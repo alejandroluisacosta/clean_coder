@@ -1,3 +1,5 @@
+// GET A SINGLE CHARACTER
+
 let characters = [];
 
 const getAllCharacters = async() => {
@@ -25,6 +27,8 @@ const addCharacter = async() => {
 }
 
 // addCharacter();
+
+// GET A CHARACTER WITH ALL THEIR EPISODES
 
 let singleCharacter = null;
 
