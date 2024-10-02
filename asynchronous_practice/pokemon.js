@@ -81,4 +81,3 @@ const displayPokemonsWithCertainSkill = async() => {
 }
 
 displayPokemonsWithCertainSkill();
-// getPokemonsWithCertainSkill();
