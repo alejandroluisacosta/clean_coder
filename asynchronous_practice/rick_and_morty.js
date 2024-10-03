@@ -25,7 +25,6 @@ const addCharacter = async() => {
     character.innerHTML = characters[0].name;
     body.appendChild(character);
 }
-
 // addCharacter();
 
 // GET A CHARACTER WITH ALL THEIR EPISODES
