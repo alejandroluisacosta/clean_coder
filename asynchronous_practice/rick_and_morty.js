@@ -18,6 +18,7 @@ const getAllCharacters = async() => {
     };
 }
 
+
 const addCharacter = async() => {
     await getAllCharacters();
     const body = document.querySelector('body');
